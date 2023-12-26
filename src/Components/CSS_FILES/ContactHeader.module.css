@@ -1,0 +1,12 @@
+.header_div{
+    width: 990px;
+    margin: 0 auto;
+}
+.header_div h1{
+    font-size: 48px;
+    font-weight: 800;
+    max-width: 80%;
+}
+.contact_section p {
+    font-weight: 500;
+  }

@@ -1,0 +1,29 @@
+
+.nav_div{
+    padding: 8px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav_div img{
+    width: 110px;
+    height: 60px;
+}
+.nav_div ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.nav_div a{
+    text-decoration: none;
+}
+.nav_div a:hover{
+    color: black;
+}
+
+
+
+
+
+
+
+
